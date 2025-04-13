@@ -1,3 +1,9 @@
+# <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="30"> AI Task Agent
+
+> *"Your terminal assistant powered by Gemini AI"*
+
+![Demo GIF](docs/demo.gif) *(see step 5 for creating this)*
+
 # AI Task Agent 🤖
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
